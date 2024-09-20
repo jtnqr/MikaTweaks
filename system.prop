@@ -1,0 +1,2 @@
+persist.sys.dalvik.hyperthreading=true
+persist.sys.dalvik.multithread=true
